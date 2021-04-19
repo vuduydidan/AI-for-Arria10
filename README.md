@@ -1,6 +1,6 @@
 # AI for Arria10
   #### Team implementation:
-  ###### * [Vu Duy Di Dan](https://www.facebook.com/vuduydidan)
+  ###### + [Vu Duy Di Dan](https://www.facebook.com/vuduydidan)
   ###### * [Pham Quang Hai](https://www.facebook.com/QuangHai.132)
   #### Partner:              
   ###### * [Nguyen Tien Bao](https://www.facebook.com/nguyentienbao8102) 
